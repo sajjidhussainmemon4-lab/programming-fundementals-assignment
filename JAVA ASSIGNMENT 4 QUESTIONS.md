@@ -219,7 +219,4 @@ ID 77 Total: 5
 
 ---
 
-### What I Learned From This Task
-In this task, I learned how to group data together based on a common value, like a product name or an ID number. Doing it without a HashMap was a bit tricky because I had to keep track of the unique items and their sums using separate arrays, and I had to use a nested loop to search for duplicates. I also learned that if I use normal arrays, I have to guess the size (like `new String[10]`), which could cause an error if there is more data than I expected. 
 
-Using a HashMap was much easier and cleaner! I didn't need a second loop or extra variables to keep count, and the HashMap automatically grows as needed. It really showed me why learning different data structures is helpful for solving problems.
